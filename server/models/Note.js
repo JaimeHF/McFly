@@ -13,5 +13,6 @@ const noteSchema = new Schema({
   });
 
 
+  
 const Note = mongoose.model('Notes', noteSchema);
 module.exports = Note;
