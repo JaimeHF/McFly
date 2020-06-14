@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const Note = require("../models/Note")
 
 mongoose
-  .connect('mongodb://localhost/appApi', {useNewUrlParser: true})
+  .connect(`${process.env.DB_LOCAL}`, {useNewUrlParser: true})
   .then(x => {
     console.log(`Connected to Mongo! Database name: "${x.connections[0].name}"`)
   })
