@@ -14,32 +14,32 @@ mongoose
 
   let notes =[{
     username:"Lorem",
-    note:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    note:"Supongo que ustedes no están preparados para esta música. Pero a sus hijos les encantará.",
     fav:true,
   },
   {
     username:"ipsum",
-    note:"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    note:"- Pero Doc, ¿has construido una máquina del tiempo con un De Lorean? - En mi opinión, si vas a hacer algo como esto, hazlo con estilo.",
     fav:true,
   },
   {
     username:"dolor",
-    note:"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    note:"¡Esto es lo que permite viajar en el tiempo, el condensador de fluzo!",
     fav:false,
   },
   {
     username:"sit",
-    note:"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    note:"¿Qué pasa, McFly? ¿Eres un gallina? ¡Gallina, McFly!",
     fav:true,
   },
   {
     username:"amet",
-    note:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    note:"¡Nadie me llama gallina!",
     fav:false,
   },
   {
     username:"consectetur",
-    note:"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    note:"¿Qué nos ocurre en el futuro? ,¿nos volvemos gilipollas,o algo perecido?",
     fav:false,
   }
 ]
